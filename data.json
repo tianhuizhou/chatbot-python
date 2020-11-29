@@ -79,6 +79,17 @@
         "Why did the hipster burn his mouth? He drank the coffee before it was cool.",
         "What did the buffalo say when his son left for college? Bison."
       ]
+    },
+    {
+      "tag": "name",
+      "patterns": [
+        "What's your name?",
+        "Do you have a name?"
+      ],
+      "responses": [
+        "You can call me Bobby.",
+        "My name is Bobby."
+      ]
     }
   ]
 }
